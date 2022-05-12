@@ -1,0 +1,14 @@
+package list
+
+dunst
+picom
+atom
+librewolf - AUR
+terminator
+pcmanfm
+vlc
+libreoffice
+vim
+ly - AUR
+gimp
+dmenu
